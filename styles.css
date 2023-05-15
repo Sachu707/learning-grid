@@ -33,3 +33,6 @@ body {
     align-items: center;
     margin-bottom: 10px;
   }
+  .card__header h3 {
+    font-size: 15px;
+  }
